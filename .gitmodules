@@ -5,6 +5,9 @@
 [submodule "artoo"]
 	path = artoo
 	url = https://github.com/vthanik/artoo
+[submodule "datasetviewer"]
+	path = datasetviewer
+	url = https://github.com/vthanik/datasetviewer
 [submodule "tabular"]
 	path = tabular
 	url = https://github.com/vthanik/tabular
